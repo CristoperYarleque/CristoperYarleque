@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Freelance](https://codigo2021.vercel.app/)
 
-- 🌱 I’m currently learning **Php, Laravel**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://www.cristoperyarleque.tk/](https://www.cristoperyarleque.tk/)
 
-- 💬 Ask me about **python, javascript, react**
+- 💬 Ask me about **Python, Javascript, React**
 
 - 📫 How to reach me **caypsaturno@gmail.com**
 
