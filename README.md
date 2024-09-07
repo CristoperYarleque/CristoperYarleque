@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,express,ruby,rails,typescript,python,django,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,express,ruby,rails,typescript,python,django,mysql,mongodb,golang)](https://skillicons.dev)
 
 ### Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristoperyarleque&show_icons=true&locale=en&layout=compact" alt="cristoperyarleque" /></p>
